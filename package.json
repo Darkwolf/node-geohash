@@ -1,6 +1,6 @@
 {
   "name": "@darkwolf/geohash",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Geohash",
   "type": "module",
   "main": "./lib/index.cjs",
