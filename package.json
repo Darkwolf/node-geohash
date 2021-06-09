@@ -1,6 +1,6 @@
 {
   "name": "@darkwolf/geohash",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Geohash",
   "type": "module",
   "main": "./lib/index.cjs",
@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/Darkwolf/node-geohash#readme",
   "dependencies": {
-    "@darkwolf/primordials": "^1.2.0"
+    "@darkwolf/primordials": "^1.2.1"
   }
 }
